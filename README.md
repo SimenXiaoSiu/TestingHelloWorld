@@ -1,3 +1,5 @@
+![headshot](jay1.jpg)
+
 # TestingHelloWorld
 Testing my repository.
 
